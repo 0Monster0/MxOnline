@@ -99,7 +99,7 @@ DATABASES = {
         'post': '3306',
         'host': '127.0.0.1',
         'user': 'root',
-        'password': 'root',
+        'password': '123456',
         'OPTIONS': {
             "init_command": "SET foreign_key_checks = 0;",
         }
